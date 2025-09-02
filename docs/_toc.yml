@@ -1,0 +1,56 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Setup
+    chapters:
+    - file: day0_setup/readme.md
+ 
+  - caption: Python Jupyter Notebooks
+    chapters:
+    - file: day1.1_juypter_notebooks/01_our_first_juptyer_notebook.ipynb
+    - file: day1.1_juypter_notebooks/02_Dont_try_this_at_home.ipynb
+    - file: day1.1_juypter_notebooks/03_image_processing.ipynb
+  - caption: Introduction to Machine Learning
+    chapters:
+    - file: day1.2_intro_ml/readme  
+  - caption: Data Wrangling
+    chapters:
+    - file: day2.1_data_wrangling/readme  
+  - caption: Introduction to Machine Learning: Classification
+    chapters:
+    - file: day2.2_ml_classification/readme  
+  - caption: Introduction to Machine Learning :Clustering
+    chapters:
+    - file: day2.3_ml_clustering/readme  
+  - caption: Deep Learning
+    chapters:
+    - file: day3.1_deep_learning/readme  
+  - caption: Data Visualization
+    chapters:
+    - file: day3.2_data_visualization/readme
+    - file: day3.2_data_visualization/01_Introduction_to_Seaborn.ipynb
+    - file: day3.2_data_visualization/02_Plotting_distributions.ipynb
+    - file: day3.2_data_visualization/03_Multivariate_views.ipynb
+
+  - caption: Large Language Models
+    chapters:
+    - file: day4.1_llms/bia-bob-demo.ipynb
+    - file: day4.1_llms/generate_notebook.ipynb
+    - file: day4.1_llms/translating_notebooks.ipynb
+    - file: day4.1_llms/bia_bob-statistical_testing.ipynb
+    - file: day4.1_llms/under_the_hood.ipynb
+    
+  - caption: Links
+    chapters:
+    #- url: https://doi.org/10.5281/zenodo.16793738
+    #  title: Download slides
+    - url: https://www.embl.org/about/info/course-and-conference-office/events/bia25-01
+      title: EMBO Practical Course Advanced Methods in Bio Image Analysis 2025
+    - url: https://creativecommons.org/licenses/by/4.0/
+      title: License CC-BY 4.0
+    - file: imprint
+
