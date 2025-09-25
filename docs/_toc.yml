@@ -43,7 +43,7 @@ parts:
     - file: day2.3_ml_clustering/01_kmeans.ipynb
     - file: day2.3_ml_clustering/02_gaussian_mixtures.ipynb
     - file: day2.3_ml_clustering/03_DBScan.ipynb
-    - file: day2.4_ml_clustering/04_exercise.ipynb
+    - file: day2.4_ml_clustering/04_clustering_exercise.ipynb
   - caption: Deep Learning
     chapters:
     - file: day3.1_deep_learning/readme  
