@@ -1,6 +1,10 @@
+_build
+
 .DS_Store
 .idea
+.vscode
 .ipynb_checkpoints
+__pycache__
 temp*
 *.pyc
 .env
