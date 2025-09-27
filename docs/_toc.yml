@@ -8,6 +8,9 @@ parts:
   - caption: Setup
     chapters:
     - file: day0_setup/readme.md
+      sections:
+      - file: day0_setup/HPC-setup.ipynb
+      - file: day0_setup/ai-assistant.ipynb
  
   - caption: Python Jupyter Notebooks
     chapters:
