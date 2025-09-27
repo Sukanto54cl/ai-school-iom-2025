@@ -10,13 +10,15 @@ parts:
     - file: day0_setup/readme.md
       sections:
       - file: day0_setup/HPC-setup.ipynb
-      - file: day0_setup/ai-assistant.ipynb
  
   - caption: Python Jupyter Notebooks
     chapters:
-    - file: day1.1_juypter_notebooks/01_our_first_juptyer_notebook.ipynb
-    - file: day1.1_juypter_notebooks/02_Dont_try_this_at_home.ipynb
-    - file: day1.1_juypter_notebooks/03_image_processing.ipynb
+    - file: day1.1_juypter_notebooks/readme.md 
+      sections:
+      - file: day1.1_juypter_notebooks/01_juptyer_notebook.ipynb
+      - file: day1.1_juypter_notebooks/02_notebook_pitfalls.ipynb
+      - file: day1.1_juypter_notebooks/03_ai-assistant.ipynb
+  
   - caption: Introduction to Machine Learning / Regression
     chapters:
     - file: day1.2_intro_ml/readme 
