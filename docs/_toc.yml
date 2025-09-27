@@ -34,10 +34,10 @@ parts:
   - caption: Data Wrangling
     chapters:
     - file: day2.1_data_wrangling/readme  
-  - caption: Introduction to Machine Learning / Classification
+  - caption: Machine Learning Techniques / Classification
     chapters:
     - file: day2.2_ml_classification/readme  
-  - caption: Introduction to Machine Learning / Clustering
+  - caption: Machine Learning Techniques / Clustering
     chapters:
     - file: day2.3_ml_clustering/readme  
     - file: day2.3_ml_clustering/01_kmeans.ipynb
