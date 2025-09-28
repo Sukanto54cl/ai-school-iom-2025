@@ -64,8 +64,11 @@ parts:
     - file: day4.1_llms/bia-bob-demo.ipynb
     - file: day4.1_llms/generate_notebook.ipynb
     - file: day4.1_llms/translating_notebooks.ipynb
+    - file: day4.1_llms/documenting_code.ipynb
     - file: day4.1_llms/bia_bob-statistical_testing.ipynb
+    - file: day4.1_llms/gui_plots.ipynb
     - file: day4.1_llms/under_the_hood.ipynb
+    - file: day4.1_llms/synthetic_customer_data_llms.ipynb
     
   - caption: Links
     chapters:
