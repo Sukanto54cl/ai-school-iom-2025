@@ -61,6 +61,8 @@ parts:
 
   - caption: Large Language Models
     chapters:
+    - url: https://github.com/ScaDS/ai-school-iom-2025/raw/refs/heads/main/docs/day4.1_llms/LLMs.pdf
+      title: Slides  
     - file: day4.1_llms/bia-bob-demo.ipynb
     - file: day4.1_llms/generate_notebook.ipynb
     - file: day4.1_llms/translating_notebooks.ipynb
