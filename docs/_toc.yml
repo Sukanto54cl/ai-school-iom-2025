@@ -58,6 +58,7 @@ parts:
     - file: day3.2_data_visualization/01_Introduction_to_Seaborn.ipynb
     - file: day3.2_data_visualization/02_Plotting_distributions.ipynb
     - file: day3.2_data_visualization/03_Multivariate_views.ipynb
+    - file: day3.2_data_visualization/20_stackview.ipynb
 
   - caption: Large Language Models
     chapters:
