@@ -36,9 +36,20 @@ parts:
     - file: day1.2_intro_ml/12-reg-boosting.ipynb
     - file: day1.2_intro_ml/13-reg-exercise.ipynb
     - file: day1.2_intro_ml/14-present.ipynb
+  
   - caption: Data Wrangling
     chapters:
-    - file: day2.1_data_wrangling/readme  
+    - file: day2.1_data_wrangling/readme
+      sections:
+      - file: day2.1_data_wrangling/01_pandas_introduction.ipynb
+      - file: day2.1_data_wrangling/02_pandas_select_df.ipynb
+      - file: day2.1_data_wrangling/03_pandas_appending_df.ipynb
+      - file: day2.1_data_wrangling/04_pandas_datatypes.ipynb
+      - file: day2.1_data_wrangling/05_pandas_missing_data.ipynb
+      - file: day2.1_data_wrangling/06_pandas_group_by.ipynb
+      - file: day2.1_data_wrangling/07_tidy_data.ipynb
+
+  
   - caption: Machine Learning Techniques / Classification
     chapters:
     - file: day2.2_ml_classification/readme  
