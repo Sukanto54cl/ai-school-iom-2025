@@ -60,9 +60,12 @@ parts:
     - file: day2.3_ml_clustering/02_gaussian_mixtures.ipynb
     - file: day2.3_ml_clustering/03_DBScan.ipynb
     - file: day2.3_ml_clustering/04_clustering_exercise.ipynb
+  
   - caption: Deep Learning
     chapters:
-    - file: day3.1_deep_learning/readme  
+    - file: day3.1_deep_learning/readme.md
+    - file: day3.1_deep_learning/01_torch_regression.ipynb
+  
   - caption: Data Visualization
     chapters:
     - file: day3.2_data_visualization/readme
