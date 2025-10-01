@@ -48,7 +48,11 @@ parts:
       - file: day2.1_data_wrangling/05_pandas_missing_data.ipynb
       - file: day2.1_data_wrangling/06_pandas_group_by.ipynb
       - file: day2.1_data_wrangling/07_tidy_data.ipynb
-
+      - file: day2.1_data_wrangling/11_dask_delayed_mandelbrot.ipynb
+      - file: day2.1_data_wrangling/21_tiling_images_naive_approach.ipynb
+      - file: day2.1_data_wrangling/22_tiling_images_with_overlap.ipynb
+      - file: day2.1_data_wrangling/23_tiled_image_file_formats_zarr.ipynb
+      - file: day2.1_data_wrangling/24_tiled_nuclei_counting_quick.ipynb
   
   - caption: Machine Learning Techniques / Classification
     chapters:
