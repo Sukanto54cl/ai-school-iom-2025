@@ -64,6 +64,7 @@ parts:
     - file: day2.2_ml_classification/05_bc_exercise.ipynb
     - file: day2.2_ml_classification/06_multicall.ipynb
     - file: day2.2_ml_classification/07_error_analysis.ipynb
+    
   - caption: Machine Learning Techniques / Clustering
     chapters:
     - file: day2.3_ml_clustering/readme  
