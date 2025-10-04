@@ -8,5 +8,6 @@ __pycache__
 temp*
 *.pyc
 .env
+.api-keys
 Untitled*
 *.zarr
