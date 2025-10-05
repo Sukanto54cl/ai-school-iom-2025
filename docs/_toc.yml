@@ -96,7 +96,7 @@ parts:
     chapters:
     - file: day4.1_llms/readme.md
       title: Large Language Models
-      sections
+      sections:
       - url: https://github.com/ScaDS/ai-school-iom-2025/raw/refs/heads/main/docs/day4.1_llms/LLMs.pdf
         title: Slides  
       - file: day4.1_llms/01_bia-bob-demo.ipynb
