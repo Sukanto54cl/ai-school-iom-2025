@@ -58,6 +58,7 @@ parts:
   
     - file: day2.2_ml_classification/readme  
       title: Machine Learning Techniques / Classification
+      sections:
       - file: day2.2_ml_classification/01_first_model.ipynb
       - file: day2.2_ml_classification/02_performance.ipynb
       - file: day2.2_ml_classification/03_precision-recall.ipynb
