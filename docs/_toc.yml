@@ -81,6 +81,7 @@ parts:
       title: Deep Learning
       sections:
       - file: day3.1_deep_learning/01_torch_regression.ipynb
+      - file: day3.1_deep_learning/01a_tensorflow_regression.ipynb
  
     - file: day3.2_data_visualization/readme
       title: Data Visualization
