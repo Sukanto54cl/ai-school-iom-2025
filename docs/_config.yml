@@ -8,6 +8,9 @@ logo: logo-all.png
 execute:
   execute_notebooks: off
 
+exclude_patterns:
+  - day4_Chemometrics_and_Data_Science/*
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:

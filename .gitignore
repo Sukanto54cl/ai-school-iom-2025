@@ -11,3 +11,4 @@ temp*
 .api-keys
 Untitled*
 *.zarr
+optuna_ckpts
